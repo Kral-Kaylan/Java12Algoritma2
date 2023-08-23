@@ -12,12 +12,12 @@ public class Question9 {
 		double ortalama= scanner.nextDouble();
 		if (ortalama>90) {
 			System.out.println("AA");
-		}else if (ortalama>80 && ortalama<90) {
+		}else if (ortalama>80 ) {
 			System.out.println("BB");
-		}else if (ortalama>70 && ortalama<80) {
+		}else if (ortalama>70) {
 			System.out.println("CC");
 
-	}else if (ortalama>60 && ortalama<70) {
+	}else if (ortalama>60 ) {
 		System.out.println("DD");
 
 }else {

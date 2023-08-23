@@ -5,7 +5,8 @@ import java.util.Scanner;
 public class Question7 {
 
 	public static void main(String[] args) {
-	
+	  
+		// Girilen Sayının tek mi Çift mi olduğunu Yazdıran Program
 		
 		Scanner scanner=new Scanner(System.in);
 		
